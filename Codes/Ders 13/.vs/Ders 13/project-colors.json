@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a4973d42-3971-4209-a877-0733b398962d": {
+      "ProjectGuid": "a4973d42-3971-4209-a877-0733b398962d",
+      "DisplayName": "Ders 13",
+      "ColorIndex": 0
+    },
+    "dd112738-9cd5-42f0-b5d9-558b15c20170": {
+      "ProjectGuid": "dd112738-9cd5-42f0-b5d9-558b15c20170",
+      "DisplayName": "Ders 13 - 2",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

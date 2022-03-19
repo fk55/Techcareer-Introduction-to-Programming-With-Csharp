@@ -1,0 +1,5 @@
+C:\Users\furka\Desktop\boş\Ders 16\Ders 16\obj\Debug\net6.0\Ders 16.csproj.AssemblyReference.cache
+C:\Users\furka\Desktop\boş\Ders 16\Ders 16\obj\Debug\net6.0\Ders 16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\Desktop\boş\Ders 16\Ders 16\obj\Debug\net6.0\Ders 16.AssemblyInfoInputs.cache
+C:\Users\furka\Desktop\boş\Ders 16\Ders 16\obj\Debug\net6.0\Ders 16.AssemblyInfo.cs
+C:\Users\furka\Desktop\boş\Ders 16\Ders 16\obj\Debug\net6.0\Ders 16.csproj.CoreCompileInputs.cache

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3b952d37-7f60-4319-a73d-57d25a9219e5": {
+      "ProjectGuid": "3b952d37-7f60-4319-a73d-57d25a9219e5",
+      "DisplayName": "Ders 18",
+      "ColorIndex": 0
+    },
+    "e1b30f3a-cbe4-47c0-8f98-f1da55aefb76": {
+      "ProjectGuid": "e1b30f3a-cbe4-47c0-8f98-f1da55aefb76",
+      "DisplayName": "Ders 18 - 2",
+      "ColorIndex": 1
+    },
+    "677288ee-7a7f-482d-89b5-4ac434b65d2e": {
+      "ProjectGuid": "677288ee-7a7f-482d-89b5-4ac434b65d2e",
+      "DisplayName": "Ders 18 - 3",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

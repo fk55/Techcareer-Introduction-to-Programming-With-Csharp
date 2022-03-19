@@ -1,0 +1,30 @@
+C:\Users\Furkan\Desktop\Techcareer C#\Kodlamalar\Ödev 2\bin\Debug\net6.0\dorthaneli.exe
+C:\Users\Furkan\Desktop\Techcareer C#\Kodlamalar\Ödev 2\bin\Debug\net6.0\dorthaneli.deps.json
+C:\Users\Furkan\Desktop\Techcareer C#\Kodlamalar\Ödev 2\bin\Debug\net6.0\dorthaneli.runtimeconfig.json
+C:\Users\Furkan\Desktop\Techcareer C#\Kodlamalar\Ödev 2\bin\Debug\net6.0\dorthaneli.dll
+C:\Users\Furkan\Desktop\Techcareer C#\Kodlamalar\Ödev 2\bin\Debug\net6.0\ref\dorthaneli.dll
+C:\Users\Furkan\Desktop\Techcareer C#\Kodlamalar\Ödev 2\bin\Debug\net6.0\dorthaneli.pdb
+C:\Users\Furkan\Desktop\Techcareer C#\Kodlamalar\Ödev 2\obj\Debug\net6.0\dorthaneli.csproj.AssemblyReference.cache
+C:\Users\Furkan\Desktop\Techcareer C#\Kodlamalar\Ödev 2\obj\Debug\net6.0\dorthaneli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\Desktop\Techcareer C#\Kodlamalar\Ödev 2\obj\Debug\net6.0\dorthaneli.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\Techcareer C#\Kodlamalar\Ödev 2\obj\Debug\net6.0\dorthaneli.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\Techcareer C#\Kodlamalar\Ödev 2\obj\Debug\net6.0\dorthaneli.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\Techcareer C#\Kodlamalar\Ödev 2\obj\Debug\net6.0\dorthaneli.dll
+C:\Users\Furkan\Desktop\Techcareer C#\Kodlamalar\Ödev 2\obj\Debug\net6.0\ref\dorthaneli.dll
+C:\Users\Furkan\Desktop\Techcareer C#\Kodlamalar\Ödev 2\obj\Debug\net6.0\dorthaneli.pdb
+C:\Users\Furkan\Desktop\Techcareer C#\Kodlamalar\Ödev 2\obj\Debug\net6.0\dorthaneli.genruntimeconfig.cache
+C:\Users\furka\Desktop\Techcareer C#\Kodlamalar\Ödev 2\solution ve dorthaneli çözümleme\bin\Debug\net6.0\dorthaneli.exe
+C:\Users\furka\Desktop\Techcareer C#\Kodlamalar\Ödev 2\solution ve dorthaneli çözümleme\bin\Debug\net6.0\dorthaneli.deps.json
+C:\Users\furka\Desktop\Techcareer C#\Kodlamalar\Ödev 2\solution ve dorthaneli çözümleme\bin\Debug\net6.0\dorthaneli.runtimeconfig.json
+C:\Users\furka\Desktop\Techcareer C#\Kodlamalar\Ödev 2\solution ve dorthaneli çözümleme\bin\Debug\net6.0\dorthaneli.dll
+C:\Users\furka\Desktop\Techcareer C#\Kodlamalar\Ödev 2\solution ve dorthaneli çözümleme\bin\Debug\net6.0\ref\dorthaneli.dll
+C:\Users\furka\Desktop\Techcareer C#\Kodlamalar\Ödev 2\solution ve dorthaneli çözümleme\bin\Debug\net6.0\dorthaneli.pdb
+C:\Users\furka\Desktop\Techcareer C#\Kodlamalar\Ödev 2\solution ve dorthaneli çözümleme\obj\Debug\net6.0\dorthaneli.csproj.AssemblyReference.cache
+C:\Users\furka\Desktop\Techcareer C#\Kodlamalar\Ödev 2\solution ve dorthaneli çözümleme\obj\Debug\net6.0\dorthaneli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\Desktop\Techcareer C#\Kodlamalar\Ödev 2\solution ve dorthaneli çözümleme\obj\Debug\net6.0\dorthaneli.AssemblyInfoInputs.cache
+C:\Users\furka\Desktop\Techcareer C#\Kodlamalar\Ödev 2\solution ve dorthaneli çözümleme\obj\Debug\net6.0\dorthaneli.AssemblyInfo.cs
+C:\Users\furka\Desktop\Techcareer C#\Kodlamalar\Ödev 2\solution ve dorthaneli çözümleme\obj\Debug\net6.0\dorthaneli.csproj.CoreCompileInputs.cache
+C:\Users\furka\Desktop\Techcareer C#\Kodlamalar\Ödev 2\solution ve dorthaneli çözümleme\obj\Debug\net6.0\dorthaneli.dll
+C:\Users\furka\Desktop\Techcareer C#\Kodlamalar\Ödev 2\solution ve dorthaneli çözümleme\obj\Debug\net6.0\ref\dorthaneli.dll
+C:\Users\furka\Desktop\Techcareer C#\Kodlamalar\Ödev 2\solution ve dorthaneli çözümleme\obj\Debug\net6.0\dorthaneli.pdb
+C:\Users\furka\Desktop\Techcareer C#\Kodlamalar\Ödev 2\solution ve dorthaneli çözümleme\obj\Debug\net6.0\dorthaneli.genruntimeconfig.cache

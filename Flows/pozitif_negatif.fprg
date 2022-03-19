@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Furkan"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-01-25 03:59:47 &#214;S"/>
+        <attribute name="created" value="RnVya2FuO0RFU0tUT1AtNks2NFRBQjsyMDIyLTAxLTI1OzAzOjUzOjM0IMOWUzszMDY0"/>
+        <attribute name="edited" value="RnVya2FuO0RFU0tUT1AtNks2NFRBQjsyMDIyLTAxLTI1OzAzOjU5OjQ3IMOWUzsxOzMxODI="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;Bir say&#305; giriniz&quot;" newline="True"/>
+            <declare name="sayi" type="Integer" array="False" size=""/>
+            <input variable="sayi"/>
+            <if expression="sayi &lt; 0">
+                <then>
+                    <output expression="sayi" newline="False"/>
+                    <output expression="&quot; Negatif bir say&#305;d&#305;r&quot;" newline="True"/>
+                </then>
+                <else>
+                    <if expression="sayi &gt; 0">
+                        <then>
+                            <output expression="sayi" newline="False"/>
+                            <output expression="&quot; Pozitif bir say&#305;d&#305;r&quot;" newline="True"/>
+                        </then>
+                        <else>
+                            <output expression="&quot;Girdi&#287;iniz say&#305; s&#305;f&#305;rd&#305;r&quot;" newline="True"/>
+                        </else>
+                    </if>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

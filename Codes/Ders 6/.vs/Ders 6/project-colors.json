@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ec33a3d0-b72a-4d59-a5e6-2b8581005646": {
+      "ProjectGuid": "ec33a3d0-b72a-4d59-a5e6-2b8581005646",
+      "DisplayName": "Ders 6",
+      "ColorIndex": 0
+    },
+    "fd6a075f-8dbf-4202-9157-04543a1fb9f2": {
+      "ProjectGuid": "fd6a075f-8dbf-4202-9157-04543a1fb9f2",
+      "DisplayName": "Ders 6 - 2",
+      "ColorIndex": 1
+    },
+    "2bd21895-f52c-4b0f-8ea3-dfa5e94256e7": {
+      "ProjectGuid": "2bd21895-f52c-4b0f-8ea3-dfa5e94256e7",
+      "DisplayName": "Ders 6 - 3",
+      "ColorIndex": 2
+    },
+    "bd1da127-c6c8-4acc-b567-67e3b764ba6a": {
+      "ProjectGuid": "bd1da127-c6c8-4acc-b567-67e3b764ba6a",
+      "DisplayName": "Ders 6 - 4",
+      "ColorIndex": 3
+    },
+    "fffe2c4b-f887-4c8c-84b2-cf4826401505": {
+      "ProjectGuid": "fffe2c4b-f887-4c8c-84b2-cf4826401505",
+      "DisplayName": "Ders 6 - 5",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

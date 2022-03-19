@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Furkan"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-01-25 04:36:28 &#214;S"/>
+        <attribute name="created" value="RnVya2FuO0RFU0tUT1AtNks2NFRBQjsyMDIyLTAxLTI1OzA0OjIyOjU5IMOWUzszMDY4"/>
+        <attribute name="edited" value="RnVya2FuO0RFU0tUT1AtNks2NFRBQjsyMDIyLTAxLTI1OzA0OjM2OjI4IMOWUzsxOzMxNzc="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;&#220;r&#252;n ad&#305;n&#305; giriniz&quot;" newline="True"/>
+            <declare name="urunadi" type="String" array="False" size=""/>
+            <input variable="urunadi"/>
+            <output expression="&quot;&#220;r&#252;n fiyat&#305;n&#305; giriniz&quot;" newline="True"/>
+            <declare name="fiyat" type="Integer" array="False" size=""/>
+            <input variable="fiyat"/>
+            <if expression="fiyat &gt; 2">
+                <then>
+                    <output expression="&quot;Stok adedi giriniz&quot;" newline="True"/>
+                    <declare name="stok" type="Integer" array="False" size=""/>
+                    <input variable="stok"/>
+                    <if expression="stok &gt; 0">
+                        <then>
+                            <output expression="&quot;&#220;r&#252;n bilgileri kaydedilmi&#351;tir&quot;" newline="True"/>
+                            <output expression="&quot;&#220;r&#252;n: &quot;" newline="False"/>
+                            <output expression="urunadi" newline="True"/>
+                            <output expression="&quot;Fiyat: &quot;" newline="False"/>
+                            <output expression="fiyat" newline="True"/>
+                            <output expression="&quot;Stok: &quot;" newline="False"/>
+                            <output expression="stok" newline="True"/>
+                        </then>
+                        <else>
+                            <output expression="&quot;Stok birden az olamaz!&quot;" newline="True"/>
+                        </else>
+                    </if>
+                </then>
+                <else>
+                    <output expression="&quot;&#220;r&#252;n fiyat&#305; 2TL'den az olamaz!&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

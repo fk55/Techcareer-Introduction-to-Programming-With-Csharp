@@ -1,0 +1,16 @@
+C:\Users\STUDENT1\Desktop\Yeni klasör\Ders 15\Ders 15\bin\Debug\net5.0\Ders 15.exe
+C:\Users\STUDENT1\Desktop\Yeni klasör\Ders 15\Ders 15\bin\Debug\net5.0\Ders 15.deps.json
+C:\Users\STUDENT1\Desktop\Yeni klasör\Ders 15\Ders 15\bin\Debug\net5.0\Ders 15.runtimeconfig.json
+C:\Users\STUDENT1\Desktop\Yeni klasör\Ders 15\Ders 15\bin\Debug\net5.0\Ders 15.runtimeconfig.dev.json
+C:\Users\STUDENT1\Desktop\Yeni klasör\Ders 15\Ders 15\bin\Debug\net5.0\Ders 15.dll
+C:\Users\STUDENT1\Desktop\Yeni klasör\Ders 15\Ders 15\bin\Debug\net5.0\ref\Ders 15.dll
+C:\Users\STUDENT1\Desktop\Yeni klasör\Ders 15\Ders 15\bin\Debug\net5.0\Ders 15.pdb
+C:\Users\STUDENT1\Desktop\Yeni klasör\Ders 15\Ders 15\obj\Debug\net5.0\Ders 15.csproj.AssemblyReference.cache
+C:\Users\STUDENT1\Desktop\Yeni klasör\Ders 15\Ders 15\obj\Debug\net5.0\Ders 15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT1\Desktop\Yeni klasör\Ders 15\Ders 15\obj\Debug\net5.0\Ders 15.AssemblyInfoInputs.cache
+C:\Users\STUDENT1\Desktop\Yeni klasör\Ders 15\Ders 15\obj\Debug\net5.0\Ders 15.AssemblyInfo.cs
+C:\Users\STUDENT1\Desktop\Yeni klasör\Ders 15\Ders 15\obj\Debug\net5.0\Ders 15.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT1\Desktop\Yeni klasör\Ders 15\Ders 15\obj\Debug\net5.0\Ders 15.dll
+C:\Users\STUDENT1\Desktop\Yeni klasör\Ders 15\Ders 15\obj\Debug\net5.0\ref\Ders 15.dll
+C:\Users\STUDENT1\Desktop\Yeni klasör\Ders 15\Ders 15\obj\Debug\net5.0\Ders 15.pdb
+C:\Users\STUDENT1\Desktop\Yeni klasör\Ders 15\Ders 15\obj\Debug\net5.0\Ders 15.genruntimeconfig.cache

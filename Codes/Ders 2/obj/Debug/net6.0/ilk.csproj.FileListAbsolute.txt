@@ -1,0 +1,15 @@
+C:\Users\Furkan\Desktop\Techcareer C#\Techcareer1\ilk\obj\Debug\net6.0\ilk.csproj.AssemblyReference.cache
+C:\Users\Furkan\Desktop\Techcareer C#\Techcareer1\ilk\obj\Debug\net6.0\ilk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\Desktop\Techcareer C#\Techcareer1\ilk\obj\Debug\net6.0\ilk.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\Techcareer C#\Techcareer1\ilk\obj\Debug\net6.0\ilk.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\Techcareer C#\Techcareer1\ilk\obj\Debug\net6.0\ilk.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\Techcareer C#\Techcareer1\ilk\bin\Debug\net6.0\ilk.exe
+C:\Users\Furkan\Desktop\Techcareer C#\Techcareer1\ilk\bin\Debug\net6.0\ilk.deps.json
+C:\Users\Furkan\Desktop\Techcareer C#\Techcareer1\ilk\bin\Debug\net6.0\ilk.runtimeconfig.json
+C:\Users\Furkan\Desktop\Techcareer C#\Techcareer1\ilk\bin\Debug\net6.0\ilk.dll
+C:\Users\Furkan\Desktop\Techcareer C#\Techcareer1\ilk\bin\Debug\net6.0\ref\ilk.dll
+C:\Users\Furkan\Desktop\Techcareer C#\Techcareer1\ilk\bin\Debug\net6.0\ilk.pdb
+C:\Users\Furkan\Desktop\Techcareer C#\Techcareer1\ilk\obj\Debug\net6.0\ilk.dll
+C:\Users\Furkan\Desktop\Techcareer C#\Techcareer1\ilk\obj\Debug\net6.0\ref\ilk.dll
+C:\Users\Furkan\Desktop\Techcareer C#\Techcareer1\ilk\obj\Debug\net6.0\ilk.pdb
+C:\Users\Furkan\Desktop\Techcareer C#\Techcareer1\ilk\obj\Debug\net6.0\ilk.genruntimeconfig.cache

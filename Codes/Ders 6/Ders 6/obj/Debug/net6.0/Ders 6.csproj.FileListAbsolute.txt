@@ -1,0 +1,15 @@
+C:\Users\furka\Desktop\Techcareer C#\Kodlamalar\Ders 6\Ders 6\bin\Debug\net6.0\Ders 6.exe
+C:\Users\furka\Desktop\Techcareer C#\Kodlamalar\Ders 6\Ders 6\bin\Debug\net6.0\Ders 6.deps.json
+C:\Users\furka\Desktop\Techcareer C#\Kodlamalar\Ders 6\Ders 6\bin\Debug\net6.0\Ders 6.runtimeconfig.json
+C:\Users\furka\Desktop\Techcareer C#\Kodlamalar\Ders 6\Ders 6\bin\Debug\net6.0\Ders 6.dll
+C:\Users\furka\Desktop\Techcareer C#\Kodlamalar\Ders 6\Ders 6\bin\Debug\net6.0\ref\Ders 6.dll
+C:\Users\furka\Desktop\Techcareer C#\Kodlamalar\Ders 6\Ders 6\bin\Debug\net6.0\Ders 6.pdb
+C:\Users\furka\Desktop\Techcareer C#\Kodlamalar\Ders 6\Ders 6\obj\Debug\net6.0\Ders 6.csproj.AssemblyReference.cache
+C:\Users\furka\Desktop\Techcareer C#\Kodlamalar\Ders 6\Ders 6\obj\Debug\net6.0\Ders 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\Desktop\Techcareer C#\Kodlamalar\Ders 6\Ders 6\obj\Debug\net6.0\Ders 6.AssemblyInfoInputs.cache
+C:\Users\furka\Desktop\Techcareer C#\Kodlamalar\Ders 6\Ders 6\obj\Debug\net6.0\Ders 6.AssemblyInfo.cs
+C:\Users\furka\Desktop\Techcareer C#\Kodlamalar\Ders 6\Ders 6\obj\Debug\net6.0\Ders 6.csproj.CoreCompileInputs.cache
+C:\Users\furka\Desktop\Techcareer C#\Kodlamalar\Ders 6\Ders 6\obj\Debug\net6.0\Ders 6.dll
+C:\Users\furka\Desktop\Techcareer C#\Kodlamalar\Ders 6\Ders 6\obj\Debug\net6.0\ref\Ders 6.dll
+C:\Users\furka\Desktop\Techcareer C#\Kodlamalar\Ders 6\Ders 6\obj\Debug\net6.0\Ders 6.pdb
+C:\Users\furka\Desktop\Techcareer C#\Kodlamalar\Ders 6\Ders 6\obj\Debug\net6.0\Ders 6.genruntimeconfig.cache

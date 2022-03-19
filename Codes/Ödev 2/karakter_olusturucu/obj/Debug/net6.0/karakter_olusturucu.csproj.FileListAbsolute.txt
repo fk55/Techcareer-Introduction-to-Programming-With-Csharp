@@ -1,0 +1,15 @@
+C:\Users\Furkan\Desktop\Techcareer C#\Kodlamalar\karakter_olusturucu\bin\Debug\net6.0\karakter_olusturucu.exe
+C:\Users\Furkan\Desktop\Techcareer C#\Kodlamalar\karakter_olusturucu\bin\Debug\net6.0\karakter_olusturucu.deps.json
+C:\Users\Furkan\Desktop\Techcareer C#\Kodlamalar\karakter_olusturucu\bin\Debug\net6.0\karakter_olusturucu.runtimeconfig.json
+C:\Users\Furkan\Desktop\Techcareer C#\Kodlamalar\karakter_olusturucu\bin\Debug\net6.0\karakter_olusturucu.dll
+C:\Users\Furkan\Desktop\Techcareer C#\Kodlamalar\karakter_olusturucu\bin\Debug\net6.0\ref\karakter_olusturucu.dll
+C:\Users\Furkan\Desktop\Techcareer C#\Kodlamalar\karakter_olusturucu\bin\Debug\net6.0\karakter_olusturucu.pdb
+C:\Users\Furkan\Desktop\Techcareer C#\Kodlamalar\karakter_olusturucu\obj\Debug\net6.0\karakter_olusturucu.csproj.AssemblyReference.cache
+C:\Users\Furkan\Desktop\Techcareer C#\Kodlamalar\karakter_olusturucu\obj\Debug\net6.0\karakter_olusturucu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\Desktop\Techcareer C#\Kodlamalar\karakter_olusturucu\obj\Debug\net6.0\karakter_olusturucu.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\Techcareer C#\Kodlamalar\karakter_olusturucu\obj\Debug\net6.0\karakter_olusturucu.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\Techcareer C#\Kodlamalar\karakter_olusturucu\obj\Debug\net6.0\karakter_olusturucu.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\Techcareer C#\Kodlamalar\karakter_olusturucu\obj\Debug\net6.0\karakter_olusturucu.dll
+C:\Users\Furkan\Desktop\Techcareer C#\Kodlamalar\karakter_olusturucu\obj\Debug\net6.0\ref\karakter_olusturucu.dll
+C:\Users\Furkan\Desktop\Techcareer C#\Kodlamalar\karakter_olusturucu\obj\Debug\net6.0\karakter_olusturucu.pdb
+C:\Users\Furkan\Desktop\Techcareer C#\Kodlamalar\karakter_olusturucu\obj\Debug\net6.0\karakter_olusturucu.genruntimeconfig.cache

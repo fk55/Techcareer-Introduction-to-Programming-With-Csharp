@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "57d2b1af-d8c9-46e7-b808-f7ec9fe8b70b": {
+      "ProjectGuid": "57d2b1af-d8c9-46e7-b808-f7ec9fe8b70b",
+      "DisplayName": "Ders 16",
+      "ColorIndex": 0
+    },
+    "2c4c3511-5da0-4740-83a7-1690a8f86ee4": {
+      "ProjectGuid": "2c4c3511-5da0-4740-83a7-1690a8f86ee4",
+      "DisplayName": "Ders 16 - 2",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

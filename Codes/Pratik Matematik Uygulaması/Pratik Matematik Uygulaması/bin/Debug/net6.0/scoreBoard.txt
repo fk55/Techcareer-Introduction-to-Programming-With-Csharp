@@ -1,0 +1,5 @@
+Furkan 250
+Player1 150
+Player2 75
+Player3 120
+AkınHoca 500

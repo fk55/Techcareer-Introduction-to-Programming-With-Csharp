@@ -1,0 +1,15 @@
+C:\Users\furka\Desktop\Techcareer C#\Kodlamalar\Pratik Matematik Uygulaması\Pratik Matematik Uygulaması\bin\Debug\net6.0\Pratik Matematik Uygulaması.exe
+C:\Users\furka\Desktop\Techcareer C#\Kodlamalar\Pratik Matematik Uygulaması\Pratik Matematik Uygulaması\bin\Debug\net6.0\Pratik Matematik Uygulaması.deps.json
+C:\Users\furka\Desktop\Techcareer C#\Kodlamalar\Pratik Matematik Uygulaması\Pratik Matematik Uygulaması\bin\Debug\net6.0\Pratik Matematik Uygulaması.runtimeconfig.json
+C:\Users\furka\Desktop\Techcareer C#\Kodlamalar\Pratik Matematik Uygulaması\Pratik Matematik Uygulaması\bin\Debug\net6.0\Pratik Matematik Uygulaması.dll
+C:\Users\furka\Desktop\Techcareer C#\Kodlamalar\Pratik Matematik Uygulaması\Pratik Matematik Uygulaması\bin\Debug\net6.0\ref\Pratik Matematik Uygulaması.dll
+C:\Users\furka\Desktop\Techcareer C#\Kodlamalar\Pratik Matematik Uygulaması\Pratik Matematik Uygulaması\bin\Debug\net6.0\Pratik Matematik Uygulaması.pdb
+C:\Users\furka\Desktop\Techcareer C#\Kodlamalar\Pratik Matematik Uygulaması\Pratik Matematik Uygulaması\obj\Debug\net6.0\Pratik Matematik Uygulaması.csproj.AssemblyReference.cache
+C:\Users\furka\Desktop\Techcareer C#\Kodlamalar\Pratik Matematik Uygulaması\Pratik Matematik Uygulaması\obj\Debug\net6.0\Pratik Matematik Uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\Desktop\Techcareer C#\Kodlamalar\Pratik Matematik Uygulaması\Pratik Matematik Uygulaması\obj\Debug\net6.0\Pratik Matematik Uygulaması.AssemblyInfoInputs.cache
+C:\Users\furka\Desktop\Techcareer C#\Kodlamalar\Pratik Matematik Uygulaması\Pratik Matematik Uygulaması\obj\Debug\net6.0\Pratik Matematik Uygulaması.AssemblyInfo.cs
+C:\Users\furka\Desktop\Techcareer C#\Kodlamalar\Pratik Matematik Uygulaması\Pratik Matematik Uygulaması\obj\Debug\net6.0\Pratik Matematik Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\furka\Desktop\Techcareer C#\Kodlamalar\Pratik Matematik Uygulaması\Pratik Matematik Uygulaması\obj\Debug\net6.0\Pratik Matematik Uygulaması.dll
+C:\Users\furka\Desktop\Techcareer C#\Kodlamalar\Pratik Matematik Uygulaması\Pratik Matematik Uygulaması\obj\Debug\net6.0\ref\Pratik Matematik Uygulaması.dll
+C:\Users\furka\Desktop\Techcareer C#\Kodlamalar\Pratik Matematik Uygulaması\Pratik Matematik Uygulaması\obj\Debug\net6.0\Pratik Matematik Uygulaması.pdb
+C:\Users\furka\Desktop\Techcareer C#\Kodlamalar\Pratik Matematik Uygulaması\Pratik Matematik Uygulaması\obj\Debug\net6.0\Pratik Matematik Uygulaması.genruntimeconfig.cache

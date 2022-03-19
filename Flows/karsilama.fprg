@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Furkan"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-01-26 07:34:04 &#214;S"/>
+        <attribute name="created" value="RnVya2FuO0RFU0tUT1AtNks2NFRBQjsyMDIyLTAxLTI1OzA0OjEyOjE5IMOWUzszMDYz"/>
+        <attribute name="edited" value="RnVya2FuO0RFU0tUT1AtNks2NFRBQjsyMDIyLTAxLTI2OzA3OjM0OjA0IMOWUzsyOzMxNzQ="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;Hi, for English press 9&quot;" newline="True"/>
+            <output expression="&quot;Merhaba, T&#252;rk&#231;e dinlemek i&#231;in ENTER'a bas&#305;n&#305;z&quot;" newline="True"/>
+            <declare name="dil" type="String" array="False" size=""/>
+            <input variable="dil"/>
+            <declare name="isim" type="String" array="False" size=""/>
+            <if expression="dil = &quot;9&quot;">
+                <then>
+                    <output expression="&quot;What is your name?&quot;" newline="True"/>
+                    <input variable="isim"/>
+                    <output expression="&quot;Welcome dear &quot;" newline="False"/>
+                </then>
+                <else>
+                    <output expression="&quot;&#304;sminiz Nedir?&quot;" newline="True"/>
+                    <input variable="isim"/>
+                    <output expression="&quot;Ho&#351;geldiniz say&#305;n &quot;" newline="False"/>
+                </else>
+            </if>
+            <output expression="isim" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

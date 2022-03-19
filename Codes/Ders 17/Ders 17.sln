@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders 17", "Ders 17\Ders 17.csproj", "{EFCA1247-1850-4914-8E83-0AB0F89BD0FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{D9ED09F8-F2AD-446A-B4BC-6E4A51BF4D55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFCA1247-1850-4914-8E83-0AB0F89BD0FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFCA1247-1850-4914-8E83-0AB0F89BD0FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFCA1247-1850-4914-8E83-0AB0F89BD0FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFCA1247-1850-4914-8E83-0AB0F89BD0FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9ED09F8-F2AD-446A-B4BC-6E4A51BF4D55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9ED09F8-F2AD-446A-B4BC-6E4A51BF4D55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9ED09F8-F2AD-446A-B4BC-6E4A51BF4D55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9ED09F8-F2AD-446A-B4BC-6E4A51BF4D55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8598CB0-E59A-426E-BD7F-1E7D2744C26B}
+	EndGlobalSection
+EndGlobal

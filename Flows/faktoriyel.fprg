@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Furkan"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-01-25 04:11:51 &#214;S"/>
+        <attribute name="created" value="RnVya2FuO0RFU0tUT1AtNks2NFRBQjsyMDIyLTAxLTI1OzAzOjU5OjUxIMOWUzszMDY5"/>
+        <attribute name="edited" value="RnVya2FuO0RFU0tUT1AtNks2NFRBQjsyMDIyLTAxLTI1OzA0OjExOjUxIMOWUzsxOzMxNjY="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;Fakt&#246;riyelini hesaplamak istedi&#287;iniz say&#305;y&#305; giriniz&quot;" newline="True"/>
+            <declare name="faktoriyel" type="Integer" array="False" size=""/>
+            <input variable="faktoriyel"/>
+            <declare name="sayac" type="Integer" array="False" size=""/>
+            <assign variable="sayac" expression="1"/>
+            <declare name="sonuc" type="Integer" array="False" size=""/>
+            <assign variable="sonuc" expression="1"/>
+            <while expression="sayac &lt;= faktoriyel">
+                <assign variable="sonuc" expression="sonuc * sayac"/>
+                <assign variable="sayac" expression="sayac+1"/>
+            </while>
+            <output expression="sonuc" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

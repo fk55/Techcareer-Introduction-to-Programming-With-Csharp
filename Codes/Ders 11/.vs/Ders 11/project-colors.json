@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b30bbd1a-9132-46af-b3d2-7a2beb6cc5aa": {
+      "ProjectGuid": "b30bbd1a-9132-46af-b3d2-7a2beb6cc5aa",
+      "DisplayName": "Ders 11",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

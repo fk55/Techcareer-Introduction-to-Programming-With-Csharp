@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Furkan"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-01-24 09:34:48 &#214;S"/>
+        <attribute name="created" value="RnVya2FuO0RFU0tUT1AtNks2NFRBQjsyMDIyLTAxLTI0OzA5OjIyOjI3IMOWUzszMDY3"/>
+        <attribute name="edited" value="RnVya2FuO0RFU0tUT1AtNks2NFRBQjsyMDIyLTAxLTI0OzA5OjM0OjQ4IMOWUzsxOzMxODE="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="sayi" type="Integer" array="False" size=""/>
+            <input variable="sayi"/>
+            <declare name="toplam" type="Integer" array="False" size=""/>
+            <assign variable="toplam" expression="0"/>
+            <declare name="sayac" type="Integer" array="False" size=""/>
+            <assign variable="sayac" expression="1"/>
+            <while expression="sayac &lt; sayi">
+                <assign variable="toplam" expression="toplam + sayac"/>
+                <assign variable="sayac" expression="sayac + 1"/>
+            </while>
+            <output expression="toplam" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
